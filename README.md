@@ -1,6 +1,6 @@
 # Remote monitoring of amyotrophic lateral sclerosis using wearable sensors
 
-**This study is still in peer review. Information on this page may be not be correct/fished.**
+**This study is still in peer review. Information on this page may be not be correct/finished.**
 
 This research repository contains all material related to our study *"Remote monitoring of amyotrophic lateral sclerosis using wearable sensors detects differences in disease progression and survival: a prospective cohort study"*.
 
