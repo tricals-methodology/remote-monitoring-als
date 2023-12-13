@@ -1,4 +1,4 @@
-## Remote monitoring of amyotrophic lateral sclerosis using wearable sensors
+# Remote monitoring of amyotrophic lateral sclerosis using wearable sensors
 
 **This study is still in peer review. Information on this page may be not be correct/fished.**
 
