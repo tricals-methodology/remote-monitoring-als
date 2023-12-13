@@ -1,4 +1,3 @@
-
 # Quantification activity counts based on Neishabouri et al (2022) 
 # code adapted from https://github.com/actigraph/agcounts
 # Currently only works for data sampled with 30 Hz frequency
