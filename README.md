@@ -18,7 +18,7 @@ There is an urgent need for objective, more sensitive, and less burdensome measu
 To be added.
 
 # Data
-The de-identified individual participant data are currently under review for publication in the [DataverseNL repository](https://dataverse.nl/). 
+The de-identified individual participant and metadata are currently under review for publication in the [DataverseNL repository](https://dataverse.nl/). 
 
 # Access and permissions 
 
