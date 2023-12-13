@@ -1,7 +1,6 @@
 ## Remote monitoring of amyotrophic lateral sclerosis using wearable sensors
 
-[!NOTE]
-This study is still in peer review. Information on this page may be not be correct/fished.
+**This study is still in peer review. Information on this page may be not be correct/fished.**
 
 This research repository contains all material related to our study *"Remote monitoring of amyotrophic lateral sclerosis using wearable sensors detects differences in disease progression and survival: a prospective cohort study"*.
 
@@ -12,7 +11,11 @@ There is an urgent need for objective, more sensitive, and less burdensome measu
 | Folder  | Content |
 | ------------- | ------------- |
 | manuscript  | Contains the manuscript and supplementary material |
-| scripts  | Holds the scripts for 1) identifying non-wear times using Choi et al. (2011) algorithm with optimized hyperparamaters by Syed et al. (2020), 2) calibrating wear position, 3) quantifing activity counts based on Neishabouri et al. (2022), and calculating daily VMI |
+| scripts  | Holds the scripts for: 
+1. Identifying non-wear times using Choi et al. (2011) algorithm with optimized hyperparamaters by Syed et al. (2020)
+2. Calibrating wear position
+3. Qquantifing activity counts based on Neishabouri et al. (2022)
+4. Calculating VMI |
 | figures | Holds the figures that are created |
 
 # Machine and package information
