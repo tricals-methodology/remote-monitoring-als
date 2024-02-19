@@ -24,7 +24,7 @@ There is an urgent need for objective, more sensitive, and less burdensome measu
 ```
 
 # Data
-The de-identified individual participant and metadata is published in the [DataverseNL repository](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/QPFHWV). 
+The de-identified individual participant and metadata are published in the [DataverseNL repository](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/QPFHWV). 
 
 # License
 This project is licensed under the terms of the [MIT License](/LICENSE).
